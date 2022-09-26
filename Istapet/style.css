@@ -1,0 +1,18 @@
+html{
+    background-image: url("imagen de fondo.webp");
+}
+h1{
+    font-family: sans-serif;
+    color: white;
+    background-color: black;
+}
+h2{
+    font-family: sans-serif;
+    color:black;
+    padding: 15px;
+
+}
+h4{
+    color: black;
+}
+
